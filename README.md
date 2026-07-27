@@ -6,13 +6,13 @@ Biomimicry dimensionalities, innovated by Gemini Pro Extended thinking, around G
 
 GOAL: Visualize and BROWSE Latent Space?
 
->  Explore emergent modalities. 
+>  Explore "myriadic" modalities around Gemma! 
 
 ____________________
 
 ## PRESENTATION: BIOMIMICRY_with_GEMMA: 
 
-<img src="./imgs/a1.png" alt="AI_ALPHABITZA" width="380" height="241" />
+<img src="./imgs/a1.png" alt="AI_ALPHABITZA" width="444" />
 
 ____
 
@@ -21,42 +21,60 @@ ____
 This LIVE DEMO is Biomimicry Experiments, for Google WebAI Wednesday with Gemma!
 
 It is an honor to be here.
-The following, is a literal "garden", of BIOMIMICRY EXPERIMENTS.
+The following Gemma experiments, are a literal "GARDEN", of BIOMIMICRY & METACOGNITION - of "myriadic" variation.
 
-   <img src="./imgs/a66.png" alt="Garden Brain" width="260" height="388" />
+   <img src="./imgs/a66.png" alt="Garden Brain" width="333" />
 
+   > The following code, SIMPLIFIES & MODULARIZES each, CONCEPT (vector | modality | paradigm), to make each DIALECTIC - easily VERSIONED and TESTABLE.
+
+   - NOTE: only text, no image, video, or voice (yet).
 ____
 ___
 
-### BASIC OVERVIEW:
+### OVERVIEW:
 
-An ITERATIVE_QUEST, around BIOMIMICRY and METACOGNITION.
+Join an ITERATIVE_QUEST, around METACOGNITIVE BIOMIMICRY.
 
-TODAY, we EXPLORE 3 aspects of that ACADEMIC_MYSTERY, around Gemma!
+HISTORY: a geekiest of hobbies, started around IDIOMS in SONG LYRICS!
+
+TODAY: we EXPLORE 3 aspects of ACADEMIC_MYSTERY, around Gemma!
 
 > GITHUB: https://github.com/netcinematics
-   <img src="./imgs/a01.png" alt="Garden Brain" width="666" height="333" />
+   <img src="./imgs/a01.png" alt="Garden Brain" width="777" />
 
 
 
 > 3 DEMO APPS (with help from Gemini Pro Extended Thinking).
 
-1. BASIC: AI_HARNESS, with Gemma as "AI_WEB_HARNESS" (PWA - APP).
-2. BASIC: Prefrontal Cortex as "PFC_SUBFUNCTIONS",
-3. BASIC: Hippocampus local memory, as "HIPPO_CAMPUS",
+1. BASIC: Prefrontal Cortex as "PFC", (cortex layers or shell)
+2. BASIC: Hippocampus local memory, as "HIPPO_CAMPUS",
+3. BASIC: AI_HARNESS, with Gemma as PWA - (POC).
 
-> CONCLUSION: Axiomic and myriadic: "AI_WEB_GARDEN" diaspora (metaphor).
+> CONCLUSION: Axiomic and Myriadic - DIASPORA (metaphor) of : "AI_WEB_GARDEN".
 
-Let's go!
+___
+<div align="center">
+   <img src="./imgs/b6.png" alt="Garden Brain" width="555" />
+</div>
+
+___
+
+#### Let's go!
 ___
 
 ### "HOW": TECHNOLOGY & METHODOLOGY:
 
-Today, how we use Gemini Pro + to Generate (concepts) of a LOCAL_BRAIN for Gemma. With 1 HUMAN in the loop, as CURATOR, to cultivate, an "AI_Web_Garden", of ISOLATED_INFERENCE_MODELS.
+1) Gemini Pro Generates complex CONCEPTS of METACOGNITION and BIOMIMICRY - where (this) humble human stumbles.
 
-> With HTML and MARKDOWN, FROM SANDBOX to GARDEN!
+2) Then applies the designs as CODE around Gemma as a CORTEX, in LAYERS, or as a SHELL.
 
-   <img src="./imgs/a03.png" alt="Garden Brain" width="177" height="222" />
+3) With a LOCAL_BRAIN of Dynamic and Static METASTATE.
+ 
+4) And a CURATOR (this human), to cultivate, an "AI_Web_Garden", of ISOLATED_INFERENCE_MODELS.
+
+> With HTML and MARKDOWN - from SANDBOX to GARDEN!
+
+   <img src="./imgs/a03.png" alt="Garden Brain" width="333"  />
 
 - PWA and localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
 - EXCEPTIONAL RENDERING TARGET for research versioning (extensibility).
@@ -68,41 +86,43 @@ ___
 ### BRIEF BIO:
 ___
 
-University student (AI-MS) | "SOLOPRENEUR" | Founder | AI Researcher | Architect | Musician | Comic | Father and Artist.
+- University student (AI-MS),
+- "SOLOPRENEUR", Founder, AI Researcher, JS Architect, 
+- Musician, Comic, Father, Mentor and Artist.
 
 > Passionate about ETHICAL tools to help humans! 
 
-<img src="./imgs/a0.png" alt="AI_ALPHABITZA" width="240" height="240" />
+<img src="./imgs/a0.png" alt="AI_ALPHABITZA" width="333" />
 
 
 - Apex nerdery, token-maxxing vectors since 1999! 
 
-- Today, AI_RESEARCH on BIOMIMICRY & METACOGNITION. 
+- Today, token-maxxing Gemini Pro Extended Thinking.
+
+- For on BIOMIMICRY & METACOGNITIVE Gemma EXPERIMENTS. 
 
 ___
 
 ### THESIS
 
-For 2 decades, a serious quest for ANSWERS. To deep questions, like:
+A QUEST for decades, on an academic QUESTION::
 
 > "What is so funny???"
 ___
-   <img src="./imgs/b6.png" alt="Garden Brain" width="384" height="241" />
+   <img src="./imgs/z1.png" alt="Garden Brain" width="555" />
 ___
 
-> "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing." Geoffrey Hinton.
+> Geoffrey Hinton. ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing.". 
 
-Today, we (literally) follow that sage advice.
+Today, we follow that sage advice (literally).
 
-
-
-> With 3 LIVE DEMO - PWA APPS.
+> With 3 LIVE DEMO - PWA APPS!
 ___
 
 ### Thank you Google Web AI!
 ___
 
-> THANK YOU: Elisabeth and Jason, for this learning space. 
+> THANK YOU: Elisabeth and Jason, for this learning space & Web AI Wednesday! 
 
 ~ LiteRT, Gemma, Gemini, and Google!
    
@@ -113,13 +133,13 @@ ____
 
 Deep gratitude to FRONTIER_PIONEERS!
 
-- Geoffrey Hinton, "AI Biomimicry", "Why is something funny?" & "Reasoning Loops", "Back Propagation".
+- Geoffrey Hinton, "AI Biomimicry", "Why is something funny?" & "Reasoning Loops".
 - Saphir-Worf Hypothesis: "Language shapes thought".
 - Douglas Hofstadter:  "BlendWords", Neologistics, Analogy relevance.
 - Ferdinand de Saussure: "Linguistic Cloud", ontology, semiotics, structuralism. 
 - Palumbo: "Axiomatic approaches to language and ontology".
 - Rich Hsu (Nuro): "AUTO RESEARCH", "HARNESS (fungible) : "Skills and Memories are MOAT" (CU Boulder 2026)
-- Ray Kurzweil: "machines expand human cognitive abilities"
+- Ray Kurzweil: "machines expand human cognitive abilities" (2026 AI for Good).
 
 - Jason Mayes, "Web AI", & VectorSearch.js!
 
@@ -127,46 +147,52 @@ ___
 
 
 
-#### "RESEARCH_BASIS", HISTORY EXAMPLES: 
+#### "RESEARCH_BASIS" | PREVIOUS EXPERIMENTS: 
 
 
 ### 1) <b>AXIOMIC VISUALIZATIONS (three.js):</b>
 
-- NUMEROUS EXPERIMENTS in multiple CODE LANGUAGES.
-- 3D CONCEPTUAL_TOPOLOGY - visuals & words.
+- NUMEROUS EXPERIMENTS across multiple CODE LANGUAGES.
+- 3D CONCEPTUAL_TOPOLOGY - visuals & words (WebGL).
 
 ___
 
 ___
+> BASIC DEMO: "3D AXIOMICS"
+
 > GITHUB: https://github.com/netcinematics/AI_CONCEPTUALIZER_1/
-   <img src="./imgs/a5.png" alt="AXIOM" width="444" height="400" />
+   <img src="./imgs/a5.png" alt="AXIOM" width="555" />
 
-> VISUAL accumulation of CONCEPTS?
+> THESIS: VISUAL accumulation of CONCEPTS or "CONCEPTUAL_COMPILATION"?
 
 ___
 
 ### 2) <b>TREE LAYOUT:</b>
 ___
-   <img src="./imgs/a4c.png" alt="TREE" width="444" height="300" />
 
-- Visualized Heirachy of CONCEPTS (polysemy & hyponymy).
+- Layout, modality, dimensionality, paradigm (AXIOM):
+   <img src="./imgs/a4c.png" alt="TREE" width="777" />
 
-> ~ With Gemma 4 E2B, LiteRT, and Gemini Pro Extended Thinking. 
+- Visualized POLYSEMY Heirachy of CONCEPTS.
+
+> ~ With Gemma 4 E2B, LiteRT, & Gemini Pro Extended Thinking (SYNTHESIS). 
 ___
 
-### 3) <b>CONVERSATIONAL INTERACTION SEQUENCES :
+### 3) <b>CONVERSATION_SEQUENCES :
 
-- "myriadic" conversation patterns
-- conceptual_modalities: "QnA", "THESIS_SYNTHESIS" etc)</b>
+- "myriadic" roleplay patterns:
+- conceptual_modalities: 
+- "QnA", "POINT, COUNTER-POINT, CONSENSUS",
+-  "THESIS, ANTITHESIS, SYNTHESIS" etc
 ___
-   <img src="./imgs/a4.png" alt="Garden Brain" width="527" height="292" />
+   <img src="./imgs/a4.png" alt="Garden Brain" width="777" />
 
 ____
 
 ### 4) <b>MYRIADIC_MAPS:</b>
 ___
 
-   <img src="./imgs/a4b.png" alt="Garden Brain" width="666" height="777" />   
+   <img src="./imgs/a4b.png" alt="Garden Brain" width="777"  />   
    
    > INFINITE_DIALECTICS (a myriadic nature of language).
 
@@ -176,83 +202,92 @@ ___
 
    ### What about AMBIGUITY?
    
-   Reminder: "AMBIGUITY_COST":
+   THESIS: "AMBIGUITY_COST" in PROMPT and PRE-TRAINING?
 
-   <img src="./imgs/a4a.png" alt="Garden Brain" width="555" height="333" />   
+   <img src="./imgs/a4a.png" alt="Garden Brain" width="666"  />   
 
-- [GEMINI Pro] "AMBIGUITY creates uncertainty and misinterpretation in every message".
-- [THESIS]: "Ambiguity_Cost incurred, by any ambiguity: low-probability calculations versus HIGH_PROBABILITY_INFERENCE (MATRIX_MATH, logit in Attention Mechanism).
+- [Gemma 4 Good: Hackathon]:
+
+> "AMBIGUITY creates uncertainty and misinterpretation in every message"?
+- [THESIS]: "Ambiguity_Cost incurred, by any ambiguousness? Any low-probability calculation potentially optimized, versus "HIGH_PROBABILITY_INFERENCE" compute? [MATRIX_MATH, activation, logit, in Attention Mechanism]?
 
 ___
 ### 5) <b>Academic Whitepaper in Python, (Tokenizer in C++) [KAGGLE]</b>
 ___
-
-   <img src="./imgs/a2.jpg" alt="Garden Brain" width="220" height="275" />
-
-> "OPTIMIZE_INPUTS" to save on "AMBIGUOSITY_COSTS".
+<div align="center">
+   <img src="./imgs/a2.jpg" alt="Garden Brain" width="220"  />
+</div>
+> THESIS: Polysemy STUDY: "OPTIMIZE_INPUTS" to save on "AMBIGUOSITY_COSTS"?
 ___
-6) <b>JavaScript_Brain (three.js):</b>
+6) Also a <b>JavaScript_Brain! (three.js):</b>
 ___
+<div align="center">
+   <img src="./imgs/b1.png" alt="Garden Brain" width="253" />
+</div>
+- What is so funny?
+- Is it ironic?
+- JavaScript as executive prefrontal cortex (module, library)?
 
-   <img src="./imgs/b1.png" alt="Garden Brain" width="253" height="194" />
+- From Python, to JS - to C++ shaders, WASM, WebGPU, IndexDB - as PWA?
 
-- Python, creates JavaScript - to run C++ shaders in parallel to WASM?!?
+- Full Circle. 
+- A PHENOMENAL TECH STACK. Elegant. Modular. Excellent.
 
-- Ironic? Full circle. 
-
-- Thanks for Quantization!
+- Thank you for QUANTIZATION technology!!! [greenfield].
+___
 ___
 
 ## TODAYS QUEST:
 
 ### 1) CONCEPTUAL_SPECTROSCOPY! 
 
-- VISUALIZE Gemma Latent Space (small).
 - For "mechanistic interpretability".
-> Can we find a SIGNAL in the NOISE?
+- VISUALIZE Gemma Latent Space (small).
+- With ZERO COORDINATES.
+> THESIS: Can we find a SIGNAL in the NOISE - topologically (axiomically)?
 
-   <img src="./imgs/a61.png" alt="Spectroscopy" width="423" height="338" />
+   <img src="./imgs/b2.png" alt="Spectroscopy" width="666"  />
 
-- Visualize latent space CONCEPTUALLY.
-
-- But also ARTICULATE and EXPLORE - Gemma Latent Space.
+- ARTICULATE and EXPLORE - the_matrix.
 
 > THESIS: Can we "BROWSE" Gemma latent space?
 ___
 
-### 2) AI WEB -> 
+### 2) AI WEB -> Gemma as 3D Browser!?!
 
-#### 3D Gemma as Browser!?
+#### Real World Use Case: 
 
-- Gemma Use Case: PII MEDICAL DATA | sensitive & secure | data privacy_imperative.
+- PII MEDICAL DATA | sensitive & secure | 
+- data privacy imperative.
+- data ethics imperative.
 
 > DEMO: "MEDICAL_METASTATE".
 
 > GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
-   <img src="./imgs/b0.png" alt="Medical" width="666" height="444" />
+   <img src="./imgs/b0.png" alt="Medical" width="777"  />
 
 
 
 
 #### KEY FEATURES:
 
-1) TRAVERSE "AXIOMIC_LAYOUT" - geometrically axiomic LATENT_TOPOLOGY.
+1) "AXIOMIC_LAYOUT" - geometrical (axiomic) LATENT_TOPOLOGY.
 
-2) "AXIOMIC_METASTATE" -  simple SUBTOPICS, mapped to simple SUBFUNCTIONS (Gyrus).
+2) "AXIOMIC_METASTATE" -  simple SUBTOPICS.
 
-3) "AXIOMZ" = MANIFOLD representation of Gemma Latent Space. With text VECTORS.
+3) "AXIOMZ" = GEMMA MANIFOLD representation in 3D.
 
--  And zero coordinates. No expensive PCA or tsne. Save tokens.
+THESIS: A fractal of AXIOMZ?
 
 ### 3) "CONCEPTUALIZE" button!
 ___
 ___
 
-   <img src="./imgs/c7.png" alt="Garden Brain" width="566" 
-height="363" />
+   <img src="./imgs/c7.png" alt="Garden Brain" width="666" 
+ />
 ___
 
-### 4) "AI_WEB_HARNESS" PWA APP:
+### 4) "AI_WEB_HARNESS" PWA APP (BASELINE):
 
 > SIMPLIFIED to "AI_WEB_HARNESS".
 
@@ -262,16 +297,16 @@ Sage advice.
 ___
 ___
 
-### 5) AI_WEB_HARNESS - HOW it WORKS!
+### HOW it WORKS!
 
 - A) 3D Visualization, of "TARGET_TOKEN" to Gemma.
 
-   <img src="./imgs/c1.png" alt="Garden Brain" width="333" height="222" />
+   <img src="./imgs/c1.png" alt="Garden Brain" width="333" />
 
-- B) "SUMMARY_AGENT" simple SUBTOPICS.
-- C) Inturn, populates "METASTATE" ("HIPPO_CAMPUS").
-- D) TOPOLOGY of "AXIOMZ" - starting points like vectors. 
-- E) WebGL | C++ Shaders (innovation point).
+- B) "SUMMARY_SKILL" simple "Top_10" SUBTOPICS.
+- C) Populates "METASTATE" ("HIPPO_CAMPUS").
+- D) TOPOLOGY of "AXIOMZ" - starting point vectors. 
+
 
 > Gemma returns SUMMARY in CSV set (it works!)
 
@@ -279,22 +314,26 @@ ___
 ___
 ___
 
-## 6) Many USE-CASES: 
+## 5) Many USE-CASES: 
 
-### 2.1) MEDICAL_METASTATE (APPLIED):
+### 2.1) MEDICAL_METASTATE (LEARNING or APPLIED):
 
-   <img src="./imgs/c3.png" alt="Garden Brain" width="531" height="434" />
+   <img src="./imgs/c3.png" alt="Garden Brain" width="555" />
 
    > Exceptional for browsing complexity.
 
    > Exceptional for SEQUENCES & PHASES (later).
    
-   - Just double-click any node - for extra views.
-   - Then: LOAD, BACK, and STOP (lifecycle).
-   
-   <img src="./imgs/c01.png" alt="Garden Brain" width="222" height="222" />
+   - Double-click any AXIOM - for "EXTRA_VIEWS".
 
-   > THESIS: NOT Gemma <i>in</i> Browser - but Gemma <i>as</i> BROWSER???
+   - Simple LIFECYCLE: LOAD, BACK, and STOP.
+
+<div align="center">
+   <img src="./imgs/c01.png" alt="Garden Brain" width="222" />
+</div>
+
+
+   > THESIS: This is Gemma <i>as</i> BROWSER???
 
 ___
 ___
@@ -303,7 +342,7 @@ ___
 ___
 ___
 
-   <img src="./imgs/c4.png" alt="Garden Brain" width="516" height="472" />
+   <img src="./imgs/c4.png" alt="Garden Brain" width="777"  />
 
 - Exceptional for learning.
 
@@ -317,12 +356,10 @@ ___
 
 #### BASIC DEMO 
 
-- "AXIOMICS" (AI science) for "CONCEPTUAL_SPECTROSCOPY":
-___
 
-   <img src="./imgs/c8.png" alt="Garden Brain" width="549" height="372" />
+   <img src="./imgs/c8.png" alt="Garden Brain" width="555" />
 
-> Extra_Ability: of endless_drilldown?
+> THESIS: endless_drilldown?
 
 ___
 ___
@@ -330,47 +367,47 @@ ___
 ### 2.4) METACOGNITIVE_ABILITY?
 
 
-   <img src="./imgs/c9.png" alt="Garden Brain" width="468" height="367" />
+   <img src="./imgs/c9.png" alt="Garden Brain" width="555" />
 
 > Literally, thinking_about_thinking... about thinking!?!
 
-- The tool was used to metacognitively study the concept of the tool 
-- to extend biomimicry research in the tool.
-- The key, apparently - simply_ask.
+- The tool was used to build the tool!
 
->  PRINCIPLE: CONCEPTUAL_INCEPTION through ITERATIVE_SYNTHESIS?
+- The key, apparently was to simply_ask.
+
+SDD: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry?"
+
+
 ___
 ___
 
 ### 2.5) EXAMPLE:
 
-#### CONCEPTUAL_SPECTROSCOPY?
+#### SDD: "How to build CONCEPTUAL_SPECTROSCOPY?"
 
 ___
 ___
 
-   <img src="./imgs/c2.png" alt="spectroscopy" width="666" height="322" />
+   <img src="./imgs/c2.png" alt="spectroscopy" width="777" />
 
-> SHOWS PLANNING STEPS - as INCEPTION loop.
+> "Top_10" summary.
 
-- Using the tool to extend the tool.
+- METACOGNITIVE: Using the tool to extend the tool.
 ___
 ___
 
 ### 2.6) Another small example:
 
-"METASTATE" - NEOLOGISTICS:
-
-> Gemma basically lists what is needed for "METASTATE"
+> Gemma lists what is needed for "METASTATE"
 ___
 ___
 
 
-   <img src="./imgs/c6.png" alt="Garden Brain" width="545" height="384" />
+   <img src="./imgs/c6.png" alt="Garden Brain" width="555" />
 
-- THESIS: Gemma has FLUENCY with NEOLOGISTICS? (point of study)
+- THESIS: Gemma has NEOLOGISTIC FLUENCY? (point of study)
 
-#### KEY TAKAWAYS:
+#### KEY TAKEAWAYS:
 
 > Out of the box fluency. One shot.
 
@@ -391,13 +428,13 @@ ___
 > DEMO: PFC_MIMICRY_1 | "USE_of_HUMOR"
 
 > GITHUB : https://github.com/netcinematics/AI_PFC_MIMICRY_1
-   <img src="./imgs/d1.png" alt="Garden Brain" width="606" height="370" />
+   <img src="./imgs/d1.png" alt="Garden Brain" width="777"  />
 
-> Hilarious Example: 
-> "ROBOT BAKES a CAKE, but SETS OFF a SMOKE ALARM!"
+> Favorite Example: 
+> "A ROBOT BAKES a CAKE, but SETS OFF a SMOKE ALARM!"
 
 
-  - EXHIBITS: "USE_of_HUMOR" | modality |.
+  - EXHIBITS: "USE_of_HUMOR" ( modality | dialectic ).
   - Shows "HUMOR_METASTATE".
 
 ___
@@ -407,7 +444,7 @@ ___
 
 - use tool to research humor.
 
-   <img src="./imgs/d2.png" alt="Garden Brain" width="586" height="390" />
+   <img src="./imgs/d2.png" alt="Garden Brain" width="555"  />
 
    > Show, detachment between logic and 
    > ~ "HUMOR_METACOGNITIVE"?
@@ -417,12 +454,12 @@ ___
 
 ### 3.3) DEMO | PFC EXPERIMENTS | PFC_MIMICRY | "3_FUNNY_JUDGES":
 
-- Gemma FRONTEND SKILLS
+
 
 ___
 ___
-### 3.4) What exactly?
-   <img src="./imgs/d3.png" alt="Garden Brain" width="777" height="334" />
+#### What exactly?
+   <img src="./imgs/d3.png" alt="Garden Brain" width="777"  />
 
 - 3 SEQUENTIAL Gemma CALLS, to 3  JUDGES.
 
@@ -444,15 +481,17 @@ ___
 "AXIOMICS", technically (SIMPLIFIED) [ thing & action paradigm ]:
 
 - A) "SUBTOPICS" (thing) - enables SUMMARY (METASTATE).
-- B) "SUBFUNCTIONS" (action) - sequence of Gemma calls.
+- B) "SUBFUNCTIONS" (action) - SEQUENCE of Gemma calls OR TOPOLOGY render.
 
 ___
 ___
 
-
-<img src="./imgs/f1.png" alt="Garden Brain" width="547" height="402" />
+ <div align="center">
+  <img src="./imgs/f1.png" alt="Garden Brain" width="444"  />
+</div>
 
 > Example Code is below.
+
 ___
 ___
 
@@ -473,7 +512,7 @@ ___
 - If we have LOOPS_of_PROMPTS, then we have
 - "PROMPT_COMPILATION" or "PROMPT_ORCHESTRATION" (over time)
 
-   <img src="./imgs/d4.png" alt="Garden Brain" width="333" height="333" />
+   <img src="./imgs/d4.png" alt="Garden Brain" width="444"  />
 
 #### KEY TAKEAWAYS:
 
@@ -517,7 +556,9 @@ async function subInference_FunnyJudgeSequence(focusLabel) {
 ```
 - EXHIBITS: PROMPT_COMPILATION or PROMPT_ORCHESTRATION (moral_story).
 
-> SEQUENCE of CALLS, shows Gemma INTERACTION (potential), of "MYRIADIC_MODALITIES".
+> SEQUENCE of CALLS, shows Gemma potential, of "MYRIADIC_MODALITIES".
+
+- Conceptual Loops, as CORTEX or SHELL. Associative.
 ___
 ___
 
@@ -538,7 +579,7 @@ ___
 
 ### 4.1) "DIALECTIC_TRIAD": 
 
-   <img src="./imgs/z15.png" alt="GEMMA 4 GOOD" width="444" height="222" />
+   <img src="./imgs/z15.png" alt="GEMMA 4 GOOD" width="444" />
 
 > "DIALECTIC_TRIAD" (pattern)
 
@@ -554,13 +595,13 @@ ___
 ___
 ___
 
-### 4.1) "THESIS_SYNTHESIS" DIALECTIC.
+### 4.1) "DIALECTIC_SYNTHESIS".
 - Also, Gemini chose the EXAMPLE TOPIC of "Digital Immortality" (news to me).
 
-> DEMO: PFC_MIMICRY_2 | "DIALECTIC_SYNTHESIS"
+> DEMO: PFC_MIMICRY_2 | "THESIS_SYNTHESIS"
 
 > GITHUB: https://github.com/netcinematics/AI_PFC_MIMICRY_1
-   <img src="./imgs/f2a.png" alt="GEMMA 4 GOOD" width="666" height="444" />
+   <img src="./imgs/f2a.png" alt="GEMMA 4 GOOD" width="666"  />
 
 > THESIS: Can DIALECTICS trigger CONCEPTUAL_SYNTHESIS?
 
@@ -577,7 +618,7 @@ ___
 
  - You be the JUDGE!
 
-   <img src="./imgs/z11.png" alt="GEMMA 4 GOOD" width="555" height="333" />
+   <img src="./imgs/z11.png" alt="GEMMA 4 GOOD" width="666"  />
 ___
 ___
 
@@ -606,9 +647,9 @@ ___
 ___
 ___
 
-#### Gemini Pro suggests this example of  SYNTHESIS:
+#### Gemini Pro suggests example of SYNTHESIS:
 
-   <img src="./imgs/f4a.png" alt="GEMMA 4 GOOD" width="515" height="445" />
+   <img src="./imgs/f4a.png" alt="GEMMA 4 GOOD" width="666"  />
 
 - THESIS: EXHIBITS, emergence math, or what?
 - What is the USE CASE?
@@ -633,7 +674,7 @@ ___
 ___
 
 
-   <img src="./imgs/f3a.png" alt="GEMMA 4 GOOD" width="390" height="428" />
+   <img src="./imgs/f3a.png" alt="GEMMA 4 GOOD" width="555" />
 
 WORD_MATH PUZZLES:
                     <option style="color:#ff00ff;" value="math_17_1">17.1) Royalty: King - Man + Woman</option>
@@ -657,7 +698,7 @@ WORD_MATH PUZZLES:
 ___
 ___
 
-   #### Gemini Suggested |DIALECTIC_PIPELINES:
+   #### Gemini Suggested | DIALECTIC_PIPELINES:
 
    A) POINT, COUNTER-POINT, CONCENSUS
 
@@ -667,10 +708,10 @@ ___
 
    - the adversarial network of consensus, plugs into the EVALUATE step for the SENSE_MAKING_PIPELINE.
 
-#### Other Example Cortex Loops:
+#### Cortex Loops (myriadic_dimensionalities):
 
 - INPUT, COMPUTE, OUTPUT
-- PREDICT, PERCIEVE, UPDATE
+- PREDICT, VERIFY, UPDATE
 - SENSE, REASON, ACT
 - RETRIEVE, GENERATE, CRITIQUE
 - EXECUTE, MONITOR, REGULATE
@@ -688,7 +729,11 @@ ____
 
 ___
 
-   <img src="./imgs/b6.png" alt="Garden Brain" width="384" height="241" /> 
+ <div align="center">
+
+   <img src="./imgs/z5.png" alt="Garden Brain" width="333" /> 
+
+</div>
 
 ___
 ___
@@ -699,7 +744,7 @@ ___
 > DEMO: MEMORY_MIMICRY_1  | "HIPPO_CAMPUS"
 
 > GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
-   <img src="./imgs/b7.png" alt="Garden Brain" width="354" height="242" />
+   <img src="./imgs/b7.png" alt="Garden Brain" width="555"  />
 
 
 ___
@@ -710,7 +755,7 @@ ___
 ___
 
 
-   <img src="./imgs/e1.png" alt="Garden Brain" width="471" height="394" />
+   <img src="./imgs/e1.png" alt="Garden Brain" width="555" />
 
 - LOCAL_MARKDOWN_LIBRARY (static)
 - SKILLS and local_brain
@@ -723,7 +768,7 @@ ___
 ___
 
 
-   <img src="./imgs/e2.png" alt="Garden Brain" width="462" height="335" />
+   <img src="./imgs/e2.png" alt="Garden Brain" width="555"  />
 
  - "GEM", generates random signatures based on IDENTITY?
  - "CONCEPTUALIZE" click, shows metacognitive meaning?
@@ -745,7 +790,7 @@ ___
 ___
 ___
 
-   <img src="./imgs/e3.png" alt="Garden Brain" width="561" height="367" />
+   <img src="./imgs/e3.png" alt="Garden Brain" width="555" />
 
 > DYNAMIC MEMORY is the result of HUMAN + AI: SYNTHESIS.
 
@@ -763,14 +808,14 @@ ___
 > DEMO: "AI_WEB_HARNESS" | BASELINE :
 
 > GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
-   <img src="./imgs/b8.png" alt="Garden Brain" width="371" height="282" />
+   <img src="./imgs/b8.png" alt="Garden Brain" width="555" />
 
 ### 6.1) AI HARNESS | fungible | BASELINE :
 
 ___
 ___
 
-   <img src="./imgs/g3.png" alt="Garden Brain" width="666" height="444" />
+   <img src="./imgs/g3.png" alt="Garden Brain" width="666"  />
 ___
 
 > HARNESS FEATURES:
@@ -804,7 +849,7 @@ ___
 - B) universal_index | singlefile vanilla.html | 
 - C) local_brain markdown | IndexDB |.
 
-   <img src="./imgs/z13.png" alt="Garden Brain" width="444" height="444" />
+   <img src="./imgs/z13.png" alt="Garden Brain" width="444"  />
 
 
 - A CONCEPTUAL_SEEDBANK for Gemma (LOCAL_DIALECTIC)
@@ -818,18 +863,19 @@ ___
 
 ### 6.3)  "AI_WEB_GARDEN" & "AI_WEB_RESEARCH".
 
-   <img src="./imgs/b9.png" alt="Garden Brain" width="222" height="222" />
-
-> Modular Isolation of Paradigm - for Gemma.
+ <div align="center">
+   <img src="./imgs/b9.png" alt="Garden Brain" width="222"  />
+</div>
+> MVP - Modular Isolation Paradigm - for Gemma SHELL.
 
 #### 6.4) AI_WEB_GARDEN EXAMPLES:
 
 - 1] AI_WEB_HARNESS - (Gemma, LiteRT, Vanilla_HTML)
 - 2] PFC_MIMICRY - ( Curation, Compilation, Association ),
 - 3] HIPPOCAMPUS_MIMICRY ( I/O, Compare, EDIT, DELETE).
-- 4] JavaScript_Brain (ironic).
+- 4] The Ironic_JavaScript_Brain.
 
-   <img src="./imgs/z6.png" alt="Garden Brain" width="444" height="444" />
+   <img src="./imgs/z6.png" alt="Garden Brain" width="444" />
 
 ___
 
