@@ -20,14 +20,21 @@ ____
 
 This LIVE DEMO is Biomimicry Experiments, for Google WebAI Wednesday with Gemma!
 
-It is an honor to be here.
-The following Gemma experiments, are a literal "GARDEN", of BIOMIMICRY & METACOGNITION - of "myriadic" variation.
+It is an honor to share this with you.
+
+The following Gemma experiments, are a literal "GARDEN", of METACOGNITIVE BIOMIMICRY in "myriadic" variation.
+
+> A virtual diaspora...
 
 <div align="center">
    <img src="./imgs/a66.png" alt="Garden Brain" width="333" />
 </div>
 
-   > The following code, SIMPLIFIES & MODULARIZES each, CONCEPT (vector | modality | paradigm), to make each DIALECTIC - easily VERSIONED and TESTABLE.
+   > The following code, SIMPLIFIES & MODULARIZES CONCEPTS.
+   
+   - it is not complex, it just has MANY LAYERS.
+   
+   - Each, vector | modality | paradigm or DIALECTIC - is easily VERSIONED and TESTABLE - in the GARDEN.
 
    - NOTE: only text, no image, video, or voice (yet).
 ____
@@ -35,11 +42,13 @@ ___
 
 ### OVERVIEW:
 
-Join in this ITERATIVE_QUEST, around METACOGNITIVE BIOMIMICRY!
+Join in this ITERATIVE_QUEST, around METACOGNITIVE BIOMIMICRY! To discover many great things.
 
-HISTORY: geekiest of hobbies, start around IDIOMS in SONG LYRICS!
+HISTORY: geekiest of hobbies, started around IDIOMS in SONG LYRICS!
 
-TODAY: we EXPLORE 3 aspects of ACADEMIC_MYSTERY, around Gemma!
+> What do the lyrics really mean?
+
+TODAY: we EXPLORE 3 aspects of that evolving ACADEMIC_MYSTERY, around Gemma!
 
 > GITHUB: https://github.com/netcinematics
    <img src="./imgs/a01.png" alt="Garden Brain" width="777" />
@@ -68,26 +77,30 @@ ___
 
 ### "HOW": TECHNOLOGY & METHODOLOGY:
 
-1) Gemini Pro Generates complex CONCEPTS of METACOGNITION and BIOMIMICRY - exactly_where (this) humble human stumbles!
+1) Gemini Pro Generates complex CONCEPTS of METACOGNITION and BIOMIMICRY - exactly_where this humble human stumbles...
 
-2) Gemini Pro applies the HUMAN designs as CODE to run around Gemma as a CORTEX, in LAYERS, or as a SHELL.
+2) Gemini Pro does what this HUMAN cannot. But it follows designs to build CODE to run around Gemma as a CORTEX, in LAYERS, or as a "SHELL".
 
-3) As if, a LOCAL_BRAIN of Dynamic and Static METASTATE??
+3) As if, a LOCAL_BRAIN, of Dynamic and Static METASTATE (hippocampus).
  
-4) With CURATOR (this human), as FRONTIER_GARDNER, to cultivate, an "AI_Web_Garden", of IDOLATED, EDGE DEVICE, INFERENCE_MODELS!
+4) With CURATOR (this human), as a FRONTIER_GARDNER, to cultivate an "AI_Web_Garden", 
+
+> of ISOLATED, EDGE DEVICE, INFERENCE_MODELS!
 
 ___
+
 ### FRONTEND_FRONTIER!
 
-> With Vanilla_HTML and MARKDOWN
+> With Vanilla_HTML and MARKDOWN "as a moat".
 
-> from SANDBOX to GARDEN!
+- from a SANDBOX to a GARDEN!
+
+
+- SINGLE_FILE, VANILLA_HTML.
+
+> And BRING_your_own_BRAIN! Really.
 
    <img src="./imgs/a022.png" alt="Garden Brain" width="333"  />
-
-> SINGLE_FILE, VANILLA_HTML!
-
-> And BRING_your_own_BRAIN!
 ___
 
 #### BYOB - Bring Your Own Brain!?!
@@ -136,12 +149,12 @@ ___
 
 An ACADEMIC QUEST, for decades, around ONE KEY QUESTION:
 
-> "What  is  so  funny???"
+> "What_is_so_funny???"
 ___
 
 ___
 
-> Geoffrey Hinton ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing.". 
+> Geoffrey Hinton ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing." 
 
 So today, we follow that sage advice (literally).
 
@@ -204,11 +217,11 @@ ___
 - Layout modality: dimensionality, paradigm (AXIOM):
    <img src="./imgs/a4c.png" alt="TREE" width="666" />
 
-- Visualize POLYSEMY, and Heirachy of CONCEPTS.
+- Visualize POLYSEMY, and Heirarchy of CONCEPTS.
 
 ___
 
-### 3) <b>CONVERSATION_SEQUENCES :
+### 3) <b>CONVERSATION_SEQUENCES  | Gemma 4 Good </b>
 
 - "myriadic" roleplay patterns:
 - conceptual_modalities (later) "THESIS, ANTITHESIS, SYNTHESIS".
@@ -240,9 +253,10 @@ ___
 
 - [THESIS]: "Ambiguity_Cost incurred?
 
--  "HIGH_PROBABILITY_INFERENCE" compute? [MATRIX_MATH, activationin Attention Mechanism]. 
+> THESIS: Reduce cost, with less ambiguousness?
 
-> Reduce cost, with less ambiguousness?
+-  Low or "HIGH_PROBABILITY_INFERENCE" compute? [MATRIX_MATH, activation, Attention Mechanism]. 
+
 ___
 ### 5) <b>Academic Whitepaper in Python, (from Tokenizer in C++) </b>
 
@@ -259,8 +273,8 @@ ___
 <div align="center">
    <img src="./imgs/b1.png" alt="Garden Brain" width="253" />
 </div>
-- What is so funny?
-- JavaScript as executive prefrontal cortex"
+
+- JavaScript as executive prefrontal cortex
 - Module, and library for UX/UI?
 - A local brain?
 - How ironic.
@@ -268,20 +282,21 @@ ___
 - From Python, to JS - to C++, both shaders and WASM, with WebGPU, IndexDB - and as PWA?
 
 - Full Circle.  Elegant. Modular. Excellent.
-- A PHENOMENAL TECH STACK.
+- A PHENOMENAL RENDER TARGET. [greenfield]
 
-- Thank you for QUANTIZATION technology!!! [greenfield].
+- Thank you QUANTIZATION technology!!! 
 ___
 ___
 
-## TODAYS QUEST:
+## TODAYS QUEST!
 
-### 1) CONCEPTUAL_SPECTROSCOPY! 
+### 1) CONCEPTUAL_SPECTROSCOPY:
 
 - For "mechanistic interpretability".
 - VISUALIZE Gemma Latent Space (small).
 - With ZERO COORDINATES.
-> THESIS: Can we find a SIGNAL in the NOISE - topologically, axiomically, metaphorically?
+> THESIS: Can we find a SIGNAL in the NOISE?
+ - topologically, axiomically, metaphorically?
 
    <img src="./imgs/b2.png" alt="Spectroscopy" width="666"  />
 
@@ -290,9 +305,11 @@ ___
 > THESIS: Can we "BROWSE" Gemma latent space?
 ___
 
-### 2) AI WEB -> Gemma as 3D Browser!?!
+### 2) WEB AI, 
 
-#### Real World Use Case: 
+> Gemma as 3D CONCEPT Browser!?!
+
+#### Real World Use Case #1: 
 
 - MEDICAL DATA | sensitive & secure | 
 - data privacy imperative.
@@ -322,9 +339,20 @@ ___
  />
 ___
 
-### 4) "AI_WEB_HARNESS" PWA APP (BASELINE):
+### 4) SIMPLE "AI_WEB_HARNESS" 
 
-> SIMPLIFIED to "AI_WEB_HARNESS".
+- PWA APP (BASELINE):
+
+> SIMPLIFIED to "AI_WEB_HARNESS". 
+
+- Install as APP in Chrome!
+
+___
+
+   <img src="./imgs/g3.png" alt="Garden Brain" width="444"  />
+___
+
+> Features Described Below.
 
 "The Web Harness is fungible, the moat is the MARKDOWN" ~ R. HSU.
 
@@ -367,12 +395,14 @@ ___
 </div>
 
 
-   > THESIS: This is Gemma <i>as</i> BROWSER?
+   > THESIS: Is this Gemma <i>as</i> 3D BROWSER?
 
 ___
 ___
 
 ### 2.2) Dramatic Vector DENSITY:
+
+- THESIS: GPU_2_GPU?
 ___
 ___
 
@@ -380,11 +410,10 @@ ___
 
 - Exceptional for learning.
 
-> FAST, and it didn't crash! 
 ___
 ___
 
-### 2.3) Dramatic APPLIED UI/UX:
+### 2.3) Dramatic UI/UX (APPLIED):
 ___
 ___
 
@@ -400,18 +429,18 @@ ___
 ___
 ___
 
-### 2.4) METACOGNITIVE_ABILITY?
+### 2.4) METACOGNITIVE DESIGNS?
 
 
    <img src="./imgs/c9.png" alt="Garden Brain" width="555" />
 
 > Literally, thinking_about_thinking, about thinking!?!
 
-- The tool was used to build this tool!
-
-- The KEY, apparently, was to simply_ask?
+- EXAMPLE: this tool was used to build this tool!
 
 > SDD EXAMPLE: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry, as a SHELL around Gemma 4E2B (SLM)?" 
+
+- SIMPLY_ASK.
 
 > Gemini Pro Extended Thinking-  knows what to do.
 
@@ -428,15 +457,16 @@ ___
 
    <img src="./imgs/c2.png" alt="spectroscopy" width="777" />
 
-> "Top_10" summary.
+> "Top_10" summary (steps).
 
-- METACOGNITIVE: Using the tool to extend the tool.
+- METACOGNITIVE: Use the tool to extend the tool.
+
 ___
 ___
 
 ### 2.6) Another small example:
 
-> Gemma lists what is needed for "METASTATE"
+> Gemma lists definition for "METASTATE"
 ___
 ___
 
@@ -445,13 +475,15 @@ ___
 
 - THESIS: Gemma has NEOLOGISTIC FLUENCY? (point of study)
 
+___
+
 #### KEY TAKEAWAYS:
 
-> Out of the box fluency. One shot.
+> Out of the box fluency. One shot. BPE Tokenizer.
 
-> THEME: Between Gemini generating this code & examples, and Gemma inferencing the TESTS, it seems: 
+> THEME: Between Gemini generating TESTS, and Gemma inferencing those TESTS, it seems: 
 
-> "All we have to do is ask?" (Gemma)
+> "All we have to do is simply_ask?" 
 ____
 ____
 
@@ -514,19 +546,6 @@ ___
 ___
 ___
 
-#### 3.5) QUICK REVIEW:
-
-"AXIOMICS", technically (SIMPLIFIED) [ thing & action paradigm ]:
-
-- A) "SUBTOPICS" (thing) - enables SUMMARY (METASTATE).
-- B) "SUBFUNCTIONS" (action) - SEQUENCE of Gemma calls OR TOPOLOGY render.
-
-___
-___
-
- <div align="center">
-  <img src="./imgs/f1.png" alt="Garden Brain" width="444"  />
-</div>
 
 > Example Code is below.
 
@@ -820,6 +839,19 @@ ___
 - RETRIEVE, GENERATE, CRITIQUE
 - EXECUTE, MONITOR, REGULATE
 
+#### 3.5) QUICK REVIEW:
+
+"AXIOMICS", technically (SIMPLIFIED) [ thing & action paradigm ]:
+
+- A) "SUBTOPICS" (thing) - enables SUMMARY (METASTATE).
+- B) "SUBFUNCTIONS" (action) - SEQUENCE of Gemma calls OR TOPOLOGY render.
+
+___
+___
+
+ <div align="center">
+  <img src="./imgs/f1.png" alt="Garden Brain" width="444"  />
+</div>
 
 ____
 ____
