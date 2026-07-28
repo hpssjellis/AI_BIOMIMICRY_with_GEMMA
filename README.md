@@ -74,13 +74,24 @@ ___
 
 > With HTML and MARKDOWN - from SANDBOX to GARDEN!
 
-   <img src="./imgs/a03.png" alt="Garden Brain" width="333"  />
+   <img src="./imgs/a022.png" alt="Garden Brain" width="333"  />
+
+___
+
+### RETURN to SIMPLE VANILLA STRUCTURE
 
 - PWA and localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
 - EXCEPTIONAL RENDERING TARGET for research versioning (extensibility).
 
 > Like gardeners and PIONEERS, on the FRONTEND_FRONTIER!
 
+___
+
+#### BYOB - Bring Your Own Brain!
+
+> https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it.litertlm
+
+> Thank you Huggingface, and Jason (for TEACHING this).
 ___
 
 ### BRIEF BIO:
@@ -105,16 +116,16 @@ ___
 
 ### THESIS
 
-A QUEST for decades, on an academic QUESTION::
+An ACADEMIC QUEST for decades, on one QUESTION::
 
 > "What is so funny???"
 ___
-   <img src="./imgs/z1.png" alt="Garden Brain" width="555" />
+
 ___
 
-> Geoffrey Hinton. ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing.". 
+> Geoffrey Hinton ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing.". 
 
-Today, we follow that sage advice (literally).
+Today, we follow sage advice (literally).
 
 > With 3 LIVE DEMO - PWA APPS!
 ___
@@ -127,11 +138,13 @@ ___
 ~ LiteRT, Gemma, Gemini, and Google!
    
 
-____
+   <img src="./imgs/b4.png" alt="Garden Brain" width="555" />
 
+
+   
 ## INSPIRATIONS:
 
-Deep gratitude to FRONTIER_PIONEERS!
+Gratitude to FRONTIER_PIONEERS!
 
 - Geoffrey Hinton, "AI Biomimicry", "Why is something funny?" & "Reasoning Loops".
 - Saphir-Worf Hypothesis: "Language shapes thought".
@@ -158,7 +171,7 @@ ___
 ___
 
 ___
-> BASIC DEMO: "3D AXIOMICS"
+> EXAMPLE: "3D AXIOMICS"
 
 > GITHUB: https://github.com/netcinematics/AI_CONCEPTUALIZER_1/
    <img src="./imgs/a5.png" alt="AXIOM" width="555" />
@@ -171,7 +184,7 @@ ___
 ___
 
 - Layout, modality, dimensionality, paradigm (AXIOM):
-   <img src="./imgs/a4c.png" alt="TREE" width="777" />
+   <img src="./imgs/a4c.png" alt="TREE" width="666" />
 
 - Visualized POLYSEMY Heirachy of CONCEPTS.
 
@@ -184,7 +197,6 @@ ___
 - conceptual_modalities: 
 - "QnA", "POINT, COUNTER-POINT, CONSENSUS",
 -  "THESIS, ANTITHESIS, SYNTHESIS" etc
-___
    <img src="./imgs/a4.png" alt="Garden Brain" width="777" />
 
 ____
@@ -218,8 +230,9 @@ ___
    <img src="./imgs/a2.jpg" alt="Garden Brain" width="220"  />
 </div>
 > THESIS: Polysemy STUDY: "OPTIMIZE_INPUTS" to save on "AMBIGUOSITY_COSTS"?
+
 ___
-6) Also a <b>JavaScript_Brain! (three.js):</b>
+### 6) Also a <b>JavaScript_Brain! (three.js):</b>
 ___
 <div align="center">
    <img src="./imgs/b1.png" alt="Garden Brain" width="253" />
@@ -267,8 +280,6 @@ ___
    <img src="./imgs/b0.png" alt="Medical" width="777"  />
 
 
-
-
 #### KEY FEATURES:
 
 1) "AXIOMIC_LAYOUT" - geometrical (axiomic) LATENT_TOPOLOGY.
@@ -307,10 +318,11 @@ ___
 - C) Populates "METASTATE" ("HIPPO_CAMPUS").
 - D) TOPOLOGY of "AXIOMZ" - starting point vectors. 
 
+- Gemma returns SUMMARY in CSV set (it works!)
 
-> Gemma returns SUMMARY in CSV set (it works!)
+- zero JSON - just strings.
 
-- zero JSON (point of study).
+- point of study for custom datatypes [pipe delimited].
 ___
 ___
 
@@ -321,19 +333,17 @@ ___
    <img src="./imgs/c3.png" alt="Garden Brain" width="555" />
 
    > Exceptional for browsing complexity.
-
-   > Exceptional for SEQUENCES & PHASES (later).
    
    - Double-click any AXIOM - for "EXTRA_VIEWS".
 
    - Simple LIFECYCLE: LOAD, BACK, and STOP.
 
 <div align="center">
-   <img src="./imgs/c01.png" alt="Garden Brain" width="222" />
+   <img src="./imgs/c01.png" alt="Garden Brain" width="111" />
 </div>
 
 
-   > THESIS: This is Gemma <i>as</i> BROWSER???
+   > THESIS: This is Gemma <i>as</i> BROWSER?
 
 ___
 ___
@@ -354,8 +364,10 @@ ___
 ___
 ___
 
-#### BASIC DEMO 
+#### USE CASE: 
 
+
+   > Exceptional for SEQUENCE & PHASE.
 
    <img src="./imgs/c8.png" alt="Garden Brain" width="555" />
 
@@ -369,13 +381,15 @@ ___
 
    <img src="./imgs/c9.png" alt="Garden Brain" width="555" />
 
-> Literally, thinking_about_thinking... about thinking!?!
+> Literally, thinking_about_thinking, about thinking (oh my)!?!
 
-- The tool was used to build the tool!
+- The tool was used to build this tool!
 
 - The key, apparently was to simply_ask.
 
-SDD: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry?"
+> SDD: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry?" 
+
+- Gemini knows what to do.
 
 
 ___
@@ -453,9 +467,6 @@ ___
    ___
 
 ### 3.3) DEMO | PFC EXPERIMENTS | PFC_MIMICRY | "3_FUNNY_JUDGES":
-
-
-
 ___
 ___
 #### What exactly?
@@ -562,7 +573,9 @@ async function subInference_FunnyJudgeSequence(focusLabel) {
 ___
 ___
 
-## 4) PRIME EXAMPLES of MYRIADIC_MODALITIES:
+## 4) APP 2 | PFC_MIMICRY: 
+
+- PRIME EXAMPLES of MYRIADIC_MODALITIES:
 
 
 >  ~ Suggested by Gemini Pro Extended Thinking.
@@ -585,13 +598,10 @@ ___
 
 > ~ ANOTHER SUGGESTION by Gemini Pro Extended Thinking.
 
-
-- [PROMPT]: WHY is this the BEST_EXAMPLE? 
 - [RESEARCH]: C. S. Pierce: "firstness, secondness, thirdness".
-- [RESPONSE]: To "GENERATE_SYNTHESIS" ~ Gemini Pro. 
-- [HUMAN]: it seems to do that.
+- [PURPOSE]: To "GENERATE_SYNTHESIS" ~ Gemini Pro. 
 
-> THESIS: Can we GENERATE METACOGINITIVE_SYNTHESIS?
+> THESIS: Can we GENERATE METACOGNITIVE SYNTHESIS?
 ___
 ___
 
@@ -622,7 +632,7 @@ ___
 ___
 ___
 
-### 4.2) "THESIS_SYNTHESIS_DIALECTIC" 
+### 4.2) "THESIS_SYNTHESIS DIALECTIC" 
 
 - TECHNICAL BREAKDOWN |  METACOGNITIVE EXAMPLE:
 
@@ -630,8 +640,8 @@ ___
 
 > Gemma: "THESIS: 
 
-- New Human Aspiration for Digital Immortality? 
-- Transcendence of biological decay, conceptually? 
+- New Human Aspiration for Digital Immortality. 
+- Transcend biological decay, conceptually. 
 - Eternal preservation of concepts (and likeness) in digital realm?"
 
 > "SYNTHESIS: "
