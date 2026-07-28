@@ -105,77 +105,115 @@ ___
 
 #### BYOB - Bring Your Own Brain!?!
 
+[interpret_as_humor] - NOT BYOB (thats taken) - instead: "LOCAL_BRAIN" - for edge device.
+
+It is important to show where to get the model.
+
+> ## INTERCHANGABLE - MODELS for AI_WEB_HARNESS
+
+https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it-web.task
+
+
 > https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it.litertlm
 
-> Thank you Huggingface, and Jason (for TEACHING this).
+- model_manifest. (describes interchangable_brains)
+
+> Thank you HuggingFace and Jason (for demos)!
 ___
 
 ### A RETURN to SIMPLE VANILLA:
 
-For science! And as EXCEPTIONAL RENDER TARGET.
+For science! 
 
-- PWA and localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
+Vanilla_HTML is an EXCEPTIONAL_RENDER_TARGET.
 
-- EXCEPTIONAL RENDER TARGET for research versioning, extensibility.
+Personally, I love this open-source medium - very much.
 
-- INNOVATION_INCUBATOR.
+It is perfect for research basis. 
+
+Very malleable -> EXTENSIBLE (innovation_pipeline), for SMOOTH_SYNTHESIS with BOTH Gemini Pro Extended thinking, and Gemma (smallest) 4E2B. It's for science.
+
+- localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
+
+- EXCEPTIONAL_RENDER_TARGET, for research versioning, extensibility & on-going curation.
+
+- THESIS: INNOVATION_INCUBATOR?
 
 > Like GARDNERS and PIONEERS, of the FRONTEND_FRONTIER!
 
+- THESIS: CURATOR of Gemma UI/UX (Interpretability_of_Inference)?
+
+Yes!
 ___
 
 
 ### BRIEF BIO:
 ___
 
-- University student (AI-MS),
-- "SOLOPRENEUR", Founder, AI Researcher, JS Architect, 
-- Musician, Comic, Father, Mentor and Artist.
+- University student (AI-MS), post-grad research 20+ yrs.
+- "SOLOPRENEUR", Founder, Linguist, Polyglot, JS Architect, 
+- Musician, Comic, Mentor, ... Artist & Dad.
 
 > Passionate about ETHICAL tools to help humans! 
 
 <img src="./imgs/a0.png" alt="AI_ALPHABITZA" width="333" />
 
 
-- Apex nerdery, token-maxxing vectors since 1999! 
+- The Apex Nerdery, begins, token-maxxing bits since 1999! 
 
-- Today, token-maxxing Gemini Pro Extended Thinking.
+- PASSION_PROJECT: AI_SYMPHONY, then Rock Music Lyrics. Deep fascination with IDIOMS, SOCIAL_PHRASES, METAPHORS, HUMOR, and NEOLOGISMS.
 
-- For on BIOMIMICRY & METACOGNITIVE Gemma EXPERIMENTS. 
+- Today, token-maxxing Gemini Pro Extended Thinking (runnin' it hot).
+
+- For 3 BIOMIMICRY & METACOGNITIVE Gemma EXPERIMENTS. 
 
 ___
 
 ### THESIS
 
-An ACADEMIC QUEST, for decades, around ONE KEY QUESTION:
+An ACADEMIC QUEST, for decades, to answer ONE KEY QUESTION:
 
-> "What_is_so_funny???"
+> "What__is__so__funny__???"
 ___
 
+> "What__am__I__missing__???"
 ___
 
-> Geoffrey Hinton ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing." 
+> Geoffrey Hinton says ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing." 
 
 So today, we follow that sage advice (literally).
 
-> With 3 LIVE DEMO APPS (PWA)!
+> With 3 LIVE DEMO APPS as PWA on Chrome! 
+
+So, PWA_BRAINS?
+
+#### Beautiful Modules of ISOLATED Science, in "LEXICAL_DIASPORA".
+
+- crossed with a "MYRIADIC_DIALECTIC" - layers. 
+- SIMPLE LAYERS - around Gemma, as PREFRONTAL CORTEXT & HIPPOCAMPUS.
+- We explore BENEFITS of such CONCEPTS, here.
 ___
 
 ### FIRSTLY: Thank you Google Web AI!
 ___
 
-> THANK YOU: Elisabeth and Jason, for this learning space & Web AI Wednesday! 
+> THANK YOU: Elisabeth and Jason, for this CURATION_SPACE of 
 
-~ LiteRT, Gemma, Gemini, VectorSearch.js,and Google!
+Web AI Wednesday! 
+
+~ Honored. 
+
+~ Thank you: LiteRT, Gemma, Gemini, VectorSearch.js,and Google!
    
 
    <img src="./imgs/b4.png" alt="Garden Brain" width="555" />
 
-
+___
+___
    
 ## INSPIRATIONS:
 
-Applause for FRONTIER_PIONEERS!
+Quick - Accolade - for FRONTIER_PIONEERS!
 
 - Geoffrey Hinton, "AI Biomimicry", "Why is something funny?" & "Reasoning Loops".
 - Saphir-Worf Hypothesis: "Language shapes thought".
@@ -189,15 +227,17 @@ Applause for FRONTIER_PIONEERS!
 
 ___
 
+[See Gemini Pro, for the full list of contributers.]
 
+___
 
-#### "RESEARCH_BASIS" | PREVIOUS EXPERIMENTS: 
+#### "RESEARCH_BASIS" | of ITERATIVE EXPERIMENTS: 
 
 
 ### 1) <b>AXIOMIC VISUALIZATIONS (three.js):</b>
 
+- 3D CONCEPTUAL_TOPOLOGY - visuals & words (WebGL)("AXIOMICS").
 - NUMEROUS EXPERIMENTS across multiple CODE LANGUAGES.
-- 3D CONCEPTUAL_TOPOLOGY - visuals & words (WebGL).
 
 ___
 
