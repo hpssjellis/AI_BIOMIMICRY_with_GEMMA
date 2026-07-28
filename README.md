@@ -274,9 +274,9 @@ ___
 - data privacy imperative.
 - data ethics imperative.
 
-> DEMO: "MEDICAL_METASTATE".
+> DEMO: "MEDICAL_METASTATE" | AXIOM | CONCEPTUALIZER.
 
-> GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
+> GITHUB: https://github.com/netcinematics/AI_CONCEPTUALIZER_1/
    <img src="./imgs/b0.png" alt="Medical" width="777"  />
 
 
@@ -470,9 +470,12 @@ ___
 ___
 ___
 #### What exactly?
-   <img src="./imgs/d3.png" alt="Garden Brain" width="777"  />
 
 - 3 SEQUENTIAL Gemma CALLS, to 3  JUDGES.
+
+   <img src="./imgs/d3.png" alt="Garden Brain" width="777"  />
+ > GITHUB: https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_PFC_WHATS_FUNNY_0.html
+
 
 
 #### EXHIBITS: MORAL_STORY | ETHICS |  METACOGNITIVE.
@@ -610,8 +613,9 @@ ___
 
 > DEMO: PFC_MIMICRY_2 | "THESIS_SYNTHESIS"
 
-> GITHUB: https://github.com/netcinematics/AI_PFC_MIMICRY_1
    <img src="./imgs/f2a.png" alt="GEMMA 4 GOOD" width="666"  />
+
+> https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_PFC_SYNTHESIS_0.html
 
 > THESIS: Can DIALECTICS trigger CONCEPTUAL_SYNTHESIS?
 
@@ -702,8 +706,6 @@ WORD_MATH PUZZLES:
                     <option style="color:#ff00ff;" value="math_18_4">18.4) System: Library - books + animals</option>
                     <option style="color:#ff00ff;" value="math_18_5">18.5) System: Lawyer - Law + Health</option>
 
-   > Strangely, these didn't seem to work (reliably)?
-
    - Point of Study.
 ___
 ___
@@ -753,8 +755,9 @@ ___
 
 > DEMO: MEMORY_MIMICRY_1  | "HIPPO_CAMPUS"
 
-> GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
    <img src="./imgs/b7.png" alt="Garden Brain" width="555"  />
+
+> GITHUB: https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_HIPPO_CAMPUS_0.html
 
 
 ___
@@ -817,8 +820,9 @@ ___
 
 > DEMO: "AI_WEB_HARNESS" | BASELINE :
 
-> GITHUB: https://github.com/netcinematics/AI_WEB_HARNESS1/
    <img src="./imgs/b8.png" alt="Garden Brain" width="555" />
+
+> GITHUB: https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_HARNESS_PWA_0.html
 
 ### 6.1) AI HARNESS | fungible | BASELINE :
 
