@@ -381,15 +381,15 @@ ___
 
    <img src="./imgs/c9.png" alt="Garden Brain" width="555" />
 
-> Literally, thinking_about_thinking, about thinking (oh my)!?!
+> Literally, thinking_about_thinking, about thinking!?!
 
 - The tool was used to build this tool!
 
-- The key, apparently was to simply_ask.
+- The KEY, apparently, was to simply_ask?
 
-> SDD: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry?" 
+> SDD EXAMPLE: "How to make JavaScript Prefrontal Cortex, with Metacognitive Biomimicry, as a SHELL around Gemma 4E2B (SLM)?" 
 
-- Gemini knows what to do.
+> Gemini Pro Extended Thinking-  knows what to do.
 
 
 ___
@@ -454,9 +454,9 @@ ___
 ___
 ___
 
-#### 3.2) "HUMOR_METASTATE" 
+#### 3.2) "HUMOR_METACOGNITIVE" 
 
-- use tool to research humor.
+- [RESEARCH]: humor.
 
    <img src="./imgs/d2.png" alt="Garden Brain" width="555"  />
 
@@ -575,6 +575,74 @@ async function subInference_FunnyJudgeSequence(focusLabel) {
 - Conceptual Loops, as CORTEX or SHELL. Associative.
 ___
 ___
+
+
+
+## 5) 2nd APP EXPERIMENT | "HIPPO_CAMPUS" :
+
+> DEMO: MEMORY_MIMICRY_1  | "HIPPO_CAMPUS"
+
+   <img src="./imgs/b7.png" alt="Garden Brain" width="555"  />
+
+> GITHUB: https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_HIPPO_CAMPUS_0.html
+
+
+___
+___
+
+### 5.1) MEMORY_MIMICRY |PERSONA | BASELINE:
+___
+___
+
+
+   <img src="./imgs/e1.png" alt="Garden Brain" width="555" />
+
+- LOCAL_MARKDOWN_LIBRARY (static)
+- SKILLS and local_brain
+
+___
+___
+
+### 5.2) SIGNATURE | MEMORY_MIMICRY | EXPERIMENT:
+___
+___
+
+
+   <img src="./imgs/e2.png" alt="Garden Brain" width="555"  />
+
+ - "GEM", generates random signatures based on IDENTITY?
+ - "CONCEPTUALIZE" click, shows metacognitive meaning?
+ 
+#### KEY TAKEAWAYS:
+
+  > ENABLE: AI_IDX Ability to uniquely ID AI concepts - as UNIVERSAL AI_IDX. 
+
+  - EDITABLE PERSONA: stored locally in IndexDB (embeddings).
+  - GPU_2_GPU, 
+  - SearchVector.js <--> Jason Mayes!
+  - cosine similarity,
+  - point of study.
+
+___
+___
+
+### 5.3) HIPPO_CAMPUS | IndexDB | EXPERIMENTS:
+___
+___
+
+   <img src="./imgs/e3.png" alt="Garden Brain" width="555" />
+
+> DYNAMIC MEMORY is the result of HUMAN + AI: SYNTHESIS.
+
+- Store DENSE_VECTORS (embeddings) locally in IndexDB.
+
+- Sine Cosine Similarity of Dense_Vectors.
+
+> Thank you Jason Mayes for VectorSearch.js!
+
+___
+___
+
 
 ## 4) APP 2 | PFC_MIMICRY: 
 
@@ -750,71 +818,6 @@ ___
 ___
 ___
 
-
-## 5) 2nd APP EXPERIMENT | "HIPPO_CAMPUS" :
-
-> DEMO: MEMORY_MIMICRY_1  | "HIPPO_CAMPUS"
-
-   <img src="./imgs/b7.png" alt="Garden Brain" width="555"  />
-
-> GITHUB: https://github.com/netcinematics/AI_BIOMIMICRY_with_GEMMA/blob/main/index_AI_HIPPO_CAMPUS_0.html
-
-
-___
-___
-
-### 5.1) MEMORY_MIMICRY |PERSONA | BASELINE:
-___
-___
-
-
-   <img src="./imgs/e1.png" alt="Garden Brain" width="555" />
-
-- LOCAL_MARKDOWN_LIBRARY (static)
-- SKILLS and local_brain
-
-___
-___
-
-### 5.2) SIGNATURE | MEMORY_MIMICRY | EXPERIMENT:
-___
-___
-
-
-   <img src="./imgs/e2.png" alt="Garden Brain" width="555"  />
-
- - "GEM", generates random signatures based on IDENTITY?
- - "CONCEPTUALIZE" click, shows metacognitive meaning?
- 
-#### KEY TAKEAWAYS:
-
-  > ENABLE: AI_IDX Ability to uniquely ID AI concepts - as UNIVERSAL AI_IDX. 
-
-  - EDITABLE PERSONA: stored locally in IndexDB (embeddings).
-  - GPU_2_GPU, 
-  - SearchVector.js <--> Jason Mayes!
-  - cosine similarity,
-  - point of study.
-
-___
-___
-
-### 5.3) HIPPO_CAMPUS | IndexDB | EXPERIMENTS:
-___
-___
-
-   <img src="./imgs/e3.png" alt="Garden Brain" width="555" />
-
-> DYNAMIC MEMORY is the result of HUMAN + AI: SYNTHESIS.
-
-- Store DENSE_VECTORS (embeddings) locally in IndexDB.
-
-- Sine Cosine Similarity of Dense_Vectors.
-
-> Thank you Jason Mayes for VectorSearch.js!
-
-___
-___
 
 ## 6) AI_WEB_HARNESS & AI_WEB_GARDEN:
 
