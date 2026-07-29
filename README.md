@@ -103,7 +103,7 @@ As MVP, BASELINE. PoC.
 
 > GITHUB: https://github.com/netcinematics
    <img src="./imgs/a01.png" alt="GitHub" width="777" />
-- Please star, like, follow, fork, PR, and byobrain.
+- Please star, like, follow, fork, PR, and byo(gemma)brain.
 
 ___
 
@@ -826,7 +826,7 @@ ___
 
 ___
 
-### 4.1) "DIALECTIC_TRIAD": 
+### 4.1) "DIALECTIC_TRIAD":  
 
    <img src="./imgs/z15.png" alt="GEMMA 4 GOOD" width="444" />
 
