@@ -44,57 +44,58 @@ A literal expanse, in latent space - of apparent vast "myriadic" variation.
    
    - THESIS: a UNIQUE_INDEX, for all concepts?
    
-   - REMEMBER, it is not complex, it just MULTI-LAYERED.
+   - REMEMBER, it is not complex, it just MULTI-LAYERED (infinitely).
    
    - Each, vector | modality | paradigm or DIALECTIC - is EASILY INDEXABLE, VERSIONED and SEQUENCABLE 
    
    - in the GARDEN of "ethereal_matrix", that you will see today!
 
-   - Pronounce like [the_real_matrix]
+   ___
 
-   - NOTE: only text, no image, video, or voice (yet).
+   #### QUICK NOTES: 
+   
+   - only text, no image, video, or voice (yet).
+
+   - exploring textual modalities with Gemma.
 
    - CODEGEN on HIGHEST: Gemini 3 Pro Extended Thinking (~6mos).
 
-   - INFERENCE SIZE on SMALLEST: Gemma 4E2B.
+   - INFERENCE SIZE is SMALLEST: Gemma 4E2B (Quantized).
 
-   - With JavaScript as a PREFRONTAL_CORTEX_ENGINE, around Gemma.
+   - With JavaScript as a PREFRONTAL_CORTEX_ENGINE.
+   
+   - As local_brain, around Gemma.
 
-   > Remember, "it is NOT COMPLEX, it just has many layers."
+   > Remember, "it is NOT COMPLEX, it just has many layers - infinitely!"
 ____
 ___
 
-### OVERVIEW:
+### LIKE WORD_PUZZLES:
 
-Join an ITERATIVE_QUEST! 
+Join this ITERATIVE_QUEST!?! 
 
 To EXPLORE a FANTASTIC MYSTERY?
 
-Of what exists between WORDS and THOUGHTS - in latent space?
-
 ___
 
-### LIKE a WORD_PUZZLS:
+ Myriadic and axiomic, linguistic and METACOGNITIVE - within the GUIDES of BIOMIMICRY. Let's discover many FANTASTICAL things!
 
- Of myriadic and axiomic, linguistic and METACOGNITIVE - within the GUIDES of BIOMIMICRY.
- 
-  To discover many FANTASTICAL things.
+  TODAY, we explore that vector - to MAP out a few CONCEPTUAL waypoints.
 
-  TODAY, we explore in that direction - to MAP out a few CONCEPTUAL waypoints.
-
-HISTORY: geekiest of hobbies, starts around IDIOMS in SONG LYRICS!
-
-> What do the lyrics actually mean? 
-
-An early detector of CONCEPTUAL_INCONGRUENCE. 
+HISTORY: the geekiest of hobbies, starts around IDIOMS in SONG LYRICS!
 
 Like, PARADOX, IRONY, cliche, trope, MORAL, simile, hyperbole, understatement, and metaphor? Like a conceptual_radar? Like incongruence_radar?
 
-> THESIS: Like Use_of_Humor, as a lens?
+
+> Look, it's MYRIADIC!
+
+Like an early detector of CONCEPTUAL_INCONGRUENCE. SIMPLIFIED.
+
+> THESIS: Use_of_Humor, as a lens?
 
 ___
 
-TODAY: we EXPLORE 3 aspects of such ACADEMIC_MYSTERY. 
+TODAY: we EXPLORE 3 aspects,
 
 Around Gemma 4E2B(smallest) - to see what it can do! 
 
@@ -114,9 +115,9 @@ ___
 
 > GREEK word for CORTEX is SHELL or "layers".
 
-> CONCLUSION: "AI_WEB_GARDEN" | SKILLS | MYRIADIC | AXIOMIC | METAPHORICAL | DIALECTIC | COMIC | DIASPORATIC | CONCEPTS | .
+> CONCLUSION: "AI_WEB_GARDEN" | SKILLS | MYRIADIC | AXIOMIC | METAPHORICAL | COMIC | DIALECTIC & DIASPORATIC | CONCEPTS!
 
-> From a SANDBOX to GARDEN!
+> From a SANDBOX to a GARDEN!
 
 ___
 <div align="center">
@@ -128,152 +129,7 @@ ___
 #### Let's go!
 ___
 
-### "HOW": TECHNOLOGY & METHODOLOGY:
-
-Major shift in METHODOLOGY: EXPORT_PARADIGM.
-
-The FIRST HALF of this PRESENTATION was CURATED_by_HUMAN.
-
-The SECOND HALF of this PRESENTATION was GENERATED_by_GEMINI.
-
-1) Gemini Pro EXTENDED THINKING generates the tests.
-
- Gemini Pro, generates the complex CONCEPTS of METACOGNITION and BIOMIMICRY - around Gemma - NOT the HUMAN.
- 
-  - exactly_where this humble human stumbles...
-
-2) Then the HUMAN CURATES, versions, INDEXES, the output to DYNAMIC_METASTATE, in the local_brain.
-
-Gemini Pro does what this HUMAN cannot. But it follows designs to build CODE to run around Gemma as a CORTEX, in LAYERS, or as a "SHELL".
-
-3) As if, a Human Browsable, "HIPPO_CAMPUS", of Dynamic and Static METASTATE.
- 
-4) So HUMAN_as_GARDNER - emerges. Like a "FRONTIER_PIONEER", to cultivate an "AI_WEB_GARDEN"? 
-
-> Many INFERENCE_MODELS, ISOLATED, in edge-device GREENHOUSE?
-
-___
-
-### FRONTEND_FRONTIER?
-
-- It's clear we have an edge-device frontier, with a future "FRONTEND_FRONTIER"!
-
-> With Vanilla_HTML and MARKDOWN "as a moat". ~ Rich Hsu (Nuro).
-
-- With Gemma, we can move out of a SANDBOX to a GARDEN incubator?!
-
-- With a LOCAL_BRAIN!?!
-
-   <img src="./imgs/a022.png" alt="Garden Brain" width="333"  />
-
-- SINGLE_FILE, VANILLA_HTML - RENDER_TARGET, for modular, easily versioned, iterative, science experiments.
-___
-
-#### Bring Your Own Brain!?!
-
-NOT BYOB (that token is taken). Instead: "LOCAL_BRAIN" - and `bring your own brain`...
-
-> Because, the MODEL is MODULAR...
-
-To an edge device, frontend_frontier - of PWA APPS?
-
-___
-
-
-> ## INTERCHANGABLE - MODELS - for AI_WEB_HARNESS (fungible):
-
-https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it-web.task
-
-
-> https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it.litertlm
-
-- THESIS: model_manifest, describes interchangable_brains?
-
-- IMPORTANT: to show the origin of a vetted Gemma model, with model_manifest.md.
-
-- Also, don't forget to GITIGNORE! All the: /models*
-
-> Thank you HuggingFace and Jason (for demos on these innovations)!
-___
-
-### A RETURN to SIMPLE VANILLA?:
-
-We use simple Vanilla, for science! 
-
-Vanilla_HTML is an EXCEPTIONAL_RENDER_TARGET.
-
-Personally, I love this open-source substrate - very much.
-
-It is perfect for research basis. 
-
-Very malleable -> EXTENSIBLE (innovation_pipeline), for SMOOTH_SYNTHESIS with BOTH Gemini Pro Extended thinking, and Gemma (smallest) 4E2B synthesis. For science!
-
-- localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
-
-- EXCEPTIONAL_RENDER_TARGET, for research versioning, extensibility & on-going curation.
-
-- THESIS: INNOVATION_INCUBATOR?
-
-> Like GARDNERS and PIONEERS, of the FRONTEND_FRONTIER!
-
-- THESIS: CURATOR of Gemma UI/UX (Interpretability_of_Inference)?
-
-Yes!
-___
-
-
-### BRIEF BIO:
-___
-
-- Post-grad researcher 20+ yrs.
-- "SOLOPRENEUR", "TECHARTIST", Founder, Persnicity Linguist, Polyglot, JS Architect,  
-- Musician, Mentor, strugglin Artist, Hack Comic & Dad.
-
-> Passionate about ETHICAL tools to help humans! 
-
-<img src="./imgs/a0.png" alt="AI_ALPHABITZA" width="333" />
-
-Return Student to University (MS-AI) program.
-
-- The Apex Nerdery, begins, token-maxxing bits since 1999! 
-
-- PASSION_PROJECT: AI_SYMPHONY. Later Rock Music Lyrics. Deep fascination with LINGUISTICS, DIALECTICS, IDIOMS, NEOLOGISMS, METAPHORS, and HUMOR - METACOGNITIVE ANALYSIS around a focus on CONCEPTUAL_INCONGRUITY.
-
-- Today, token-maxxing Gemini Pro Extended Thinking (runnin' it hot).
-
-- SINCE "Gemma 4 Good" Hackathon. MULTIPLE GOOGLE Capstones, "Intensive Agents", DEV challenge, KAGGLE Benchmarks, and Web AI!!!
-
-> For 3 METACOGNITIVE, BIOMIMICRY Gemma EXPERIMENTS. 
-
-___
-
-### THESIS
-
-An ACADEMIC QUEST, for decades, to uncover ONE KEY QUESTION:
-
-> "What__is__so__funny__???"
-___
-
-> And "What__am__I__missing__???"
-___
-
-> Geoffrey Hinton says ~ "If you answer 'what is funny', about something, you end up knowning quite a lot, about that thing." 
-
-Today we follow along that sage advice (literally), on the FRONTEND.
-
-> With 3 LIVE DEMO APPS as PWA on Chrome! 
-
-___
-
-#### Beautiful Modules of ISOLATED Science, in a "LEXICAL_DIASPORA".
-
-- crossed with a "MYRIADIC_DIALECTIC" - layers (shown below)
-- SIMPLE LAYERS - around Gemma, as PREFRONTAL CORTEXT & HIPPOCAMPUS.
-- We explore BENEFITS of such CONCEPTS, here.
-___
-
-### FIRSTLY: Thank you Google Web AI!
-___
+## FIRSTLY: Thank you Google Web AI!
 
 > THANK YOU: Elisabeth and Jason, for this CURATION_SPACE of 
 
@@ -309,7 +165,151 @@ ___
 
 ___
 
-#### "RESEARCH_BASIS" | of ITERATIVE EXPERIMENTS: 
+### "HOW": TECHNOLOGY & METHODOLOGY:
+
+<div align="center">
+
+<img src="./imgs/z10.png" alt="Garden Brain" width="555" />
+</div>
+
+### NOTE:
+
+A) The FIRST HALF of this PRESENTATION was CURATED_by_HUMAN.
+
+B) The SECOND HALF of this PRESENTATION was GENERATED_by_GEMINI.
+
+- Major shift in METHODOLOGY: EXPORT_PARADIGM.
+- Gemini knows how to build METACOGNITIVE BIOMIMICRY.
+
+___
+
+#### PROCESS & METHODOLOGY (workflow): 
+
+<div align="center">
+
+<img src="./imgs/z12.png" alt="Garden Brain" width="555" />
+</div>
+
+1) CRITICALLY Gemini Pro EXTENDED THINKING generated the test (GYRUS mimicry).
+
+ After Gemini Pro RESEARCH. Gemini ASSEMBLES the complex CONCEPTS of METACOGNITION and BIOMIMICRY - around Gemma inference - as GENCODE. NOT done by HUMAN.
+
+2) The HUMAN CURATES! Versions, INDEXES, catches REGRESSIONS! Incubates, Refines, and Seeds, output to DYNAMIC_METASTATE, GARDEN, in the local_brain - as a SHELL (in layers).
+
+3) Human Browsable, "HIPPO_CAMPUS", of editable Dynamic and Static METASTATE libraries of markdown.
+ 
+4) So HUMAN_as_GARDNER (role) emerges. As a "FRONTIER_PIONEER", to cultivate an "AI_WEB_GARDEN"? [Yee-haw]
+
+> Imagine, many INFERENCE_MODELS, like FLORA, in edge-device GREENHOUSE? 
+
+___
+
+### THEORY: FRONTEND_FRONTIER?
+
+> With "Vanilla_HTML" libraries, and MARKDOWN "as a moat". ~ Rich Hsu (Nuro).
+
+- With a LOCAL_BRAIN:
+
+   <img src="./imgs/a022.png" alt="Garden Brain" width="333"  />
+
+- SINGLE_FILE, VANILLA_HTML - RENDER_TARGET, for modular, easily versioned, iterative, science experiments.
+___
+
+#### THEORY of Local_Brain:
+
+[Bring_Your_Own_Brain or Interchangable Brains?]
+
+> Because, the MODEL is MODULAR.
+
+To an edge device, frontend_frontier - of PWA APPS?
+
+> THESIS: "LOCAL_BRAIN"? 
+
+- Highly-Customized Dedicated Assistant? CURATED_ASSISTANCE.
+
+___
+
+
+> ## INTERCHANGABLE - MODELS - in AI_WEB_HARNESS (fungible):
+
+It's important to SHOWCASE model origin.
+
+> https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it-web.task
+
+
+> https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it.litertlm
+
+Thank you huggingface!
+
+- THESIS: model_manifest, describes inference models?
+
+- IMPORTANT: vetted Gemma model origin in model_manifest.md.
+
+- Also, don't forget to GIT IGNORE! All the: /models* !
+
+> Thank you HuggingFace and Jason (for demos on these innovations)!
+___
+
+### A RETURN to SIMPLE VANILLA?:
+
+We use simple Vanilla, for science! 
+
+> localhost: http://127.0.0.1:5500/AI_WEB_GARDEN_1/index.html
+
+- Vanilla_HTML is an EXCEPTIONAL_RENDER_TARGET.
+
+> THESIS: do we STILL need abstraction layers? Is simplicity an optimization?
+
+- Personally, I love this open-source substrate - very much.
+
+- It is perfect for research basis. 
+
+- Very MALLEABLE -> EXTENSIBLE (innovation_pipeline).
+
+- SMOOTH_SYNTHESIS - BETWEEN - Gemini Pro Extended thinking GENERATOR, and Gemma (smallest) 4E2B inference. 
+
+> Simplicity for science!
+
+- THESIS: MVP INNOVATION_INCUBATOR (harness)?
+
+> Like GARDNERS and PIONEERS, of the FRONTEND_FRONTIER!
+
+- THESIS: CURATOR of Gemma UI/UX (Interpretability_of_Inference)?
+
+Yes!
+___
+
+
+### BRIEF BIO:
+___
+
+- University Student, Post-grad researcher 20+ yrs.
+- "SOLOPRENEUR", "TECHARTIST", Founder, Persnickety Linguist, JS Architect, Polyglot. 
+- Musician, Mentor, strugglin Artist, as a Hack Comic & Dad.
+
+___
+
+> Passionate about ETHICAL tools to help humans! 
+
+<img src="./imgs/a0.png" alt="AI_ALPHABITZA" width="333" />
+
+Return to University (MS-AI) masters program.
+
+___
+
+### BRIEF BACKSTORY:
+
+- The Apex Nerdery, begins, token-maxxing bits since 1999! 
+
+- PASSION_PROJECT: AI_SYMPHONY. 
+- Later Rock Music Lyrics. Deep fascination with LINGUISTICS, DIALECTICS, IDIOMS, NEOLOGISMS, METAPHORS, and HUMOR 
+- METACOGNITIVE ANALYSIS around a focus on CONCEPTUAL_INCONGRUITY.
+
+- SINCE "Gemma 4 Good" Hackathon. MULTIPLE GOOGLE Capstones, "Intensive Agents", DEV challenge, KAGGLE Benchmarks, and Web AI!!!
+
+___
+
+## "RESEARCH_BASIS" | of ITERATIVE EXPERIMENTS: 
 
 
 ### 1) <b>AXIOMIC VISUALIZATIONS (three.js):</b>
@@ -923,21 +923,20 @@ ___
 
    <img src="./imgs/f3a.png" alt="GEMMA 4 GOOD" width="555" />
 
-WORD_MATH PUZZLES:
-                    <option style="color:#ff00ff;" value="math_17_1">17.1) Royalty: King - Man + Woman</option>
-                    <option style="color:#ff00ff;" value="math_17_2">17.2) Capitals: Paris - France + Japan</option>
-                    <option style="color:#ff00ff;" value="math_17_3">17.3) Thermodynamics: Ice - Cold + Heat</option>
-                    <option style="color:#ff00ff;" value="math_17_4">17.4) Professions: Doctor - Hospital + School</option>
-                    <option style="color:#ff00ff;" value="math_17_5">17.5) Astronomy: Day - Sun + Moon</option>
-                    <option style="color:#ff00ff;" value="math_17_6">17.6) Biology: Bird - Air + Water</option>
-                    <option style="color:#ff00ff;" value="math_17_7">17.7) Institutions: Library - Books + Art</option>
-                    <option style="color:#ff00ff;" value="math_17_8">17.8) Transportation: Car - Road + Rail</option>
-                    <option style="color:#ff00ff;" value="math_17_9">17.9) Botany: Seed - Plant + Egg</option>
-                    <option style="color:#ff00ff;" value="math_18_1">18.1) System: knowledge - experience + dogma</option>
-                    <option style="color:#ff00ff;" value="math_18_2">18.2) System: medicine - science + magic</option>
-                    <option style="color:#ff00ff;" value="math_18_3">18.3) System: Silence - peace + fear</option>
-                    <option style="color:#ff00ff;" value="math_18_4">18.4) System: Library - books + animals</option>
-                    <option style="color:#ff00ff;" value="math_18_5">18.5) System: Lawyer - Law + Health</option>
+WORD_MATH PUZZLE GAME:
+17.1) Royalty: King - Man + Woman = Queen
+17.2) Capitals: Paris - France + Japan = Tokyo
+17.3) Thermodynamics: Ice - Cold + Heat = Steam
+17.4) Professions: Doctor - Hospital + School = Teacher
+17.5) Astronomy: Day - Sun + Moon = Night
+17.6) Biology: Bird - Air + Water = Fish
+17.7) Institutions: Library - Books + Art = Museum
+17.8) Transportation: Car - Road + Rail = Train
+17.9) Botany: Seed - Plant + Egg = Chick
+18.2) System: medicine - science + magic = alchemy 
+18.3) System: Silence - peace + fear = tension
+18.4) System: Library - books + animals =zoo
+18.5) System: Lawyer - Law + Health = justice 
 
    - Point of Study.
 ___

@@ -1,9 +1,11 @@
 ## INTERCHANGABLE - MODELS for AI_WEB_HARNESS
 
+THIS MODEL is use in AI_WEB_HARNESS:
+
 https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/blob/main/gemma-4-E2B-it-web.task
 
 
-# Place your "embeddinggemma-300M_seq1024_mixed-precision.tflite" file in this folder 
+### Place your "embeddinggemma-300M_seq1024_mixed-precision.tflite" file in this folder 
 
 This is a LiteRT.js Web AI compatible EmbeddingGemma model. 
 
