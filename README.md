@@ -925,19 +925,58 @@ ___
 
 WORD_MATH PUZZLE GAME:
 
-- 17.1) Royalty: King - Man + Woman ..........= Queen
-- 17.2) Capitals: Paris - France + Japan .....= Tokyo
-- 17.3) Thermodynamics: Ice - Cold + Heat ....= Fire
-- 17.4) Professions: Doctor - Hospital + School = Teacher
-- 17.5) Astronomy: Day - Sun + Moon ..........= Night
-- 17.6) Biology: Bird - Air + Water ..........= Fish
-- 17.7) Institutions: Library - Books + Art ..= Museum
-- 17.8) Transportation: Car - Road + Rail ....= Train
-- 17.9) Botany: Seed - Plant + Egg ...........= Chick
-- 18.2) System: medicine - science + magic ...= alchemy 
-- 18.3) System: Silence - peace + fear ......= tension
-- 18.4) System: Library - books + animals ...= zoo
-- 18.5) System: Lawyer - Law + Doctor .......= medicine
+- 17.1) Royalty: King - Man + Woman ..........
+
+> = Queen
+
+- 17.2) Capitals: Paris - France + Japan .....
+
+> = Tokyo
+
+- 17.3) Thermodynamics: Ice - Cold + Heat ....
+
+> = Fire
+
+- 17.4) Professions: Doctor - Hospital + School 
+
+> = Teacher
+
+- 17.5) Astronomy: Day - Sun + Moon ..........
+
+> = Night
+
+- 17.6) Biology: Bird - Air + Water ..........
+
+> = Fish
+
+- 17.7) Institutions: Library - Books + Art ..
+
+> = Museum
+
+- 17.8) Transportation: Car - Road + Rail ....
+
+> = Train
+
+- 17.9) Botany: Seed - Plant + Egg ...........
+
+> = Chick
+
+- 18.2) System: medicine - science + magic ...
+
+> = alchemy 
+
+- 18.3) System: Silence - peace + fear ......
+
+> = tension
+
+- 18.4) System: Library - books + animals ...
+
+> = zoo
+
+- 18.5) System: Lawyer - Law + Doctor .......
+
+> = medicine
+
 
    - Point of Study.
 ___
