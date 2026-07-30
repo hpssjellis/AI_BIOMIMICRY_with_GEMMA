@@ -1,5 +1,9 @@
 # AI_BIOMIMICRY_with_GEMMA
 
+Forked by Jeremy Ellis
+
+PWA Demo at  https://hpssjellis.github.io/AI_BIOMIMICRY_with_GEMMA/index_AI_HARNESS_PWA_0.html
+
 Biomimicry dimensionalities, innovated by Gemini, around Gemma... 
 
 Token-Maxxing Gemini Pro Extended Thinking...
